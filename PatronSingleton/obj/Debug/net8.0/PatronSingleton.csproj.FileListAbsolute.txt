@@ -1,0 +1,14 @@
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/bin/Debug/net8.0/PatronSingleton
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/bin/Debug/net8.0/PatronSingleton.deps.json
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/bin/Debug/net8.0/PatronSingleton.runtimeconfig.json
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/bin/Debug/net8.0/PatronSingleton.dll
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/bin/Debug/net8.0/PatronSingleton.pdb
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/obj/Debug/net8.0/PatronSingleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/obj/Debug/net8.0/PatronSingleton.AssemblyInfoInputs.cache
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/obj/Debug/net8.0/PatronSingleton.AssemblyInfo.cs
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/obj/Debug/net8.0/PatronSingleton.csproj.CoreCompileInputs.cache
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/obj/Debug/net8.0/PatronSingleton.dll
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/obj/Debug/net8.0/refint/PatronSingleton.dll
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/obj/Debug/net8.0/PatronSingleton.pdb
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/obj/Debug/net8.0/PatronSingleton.genruntimeconfig.cache
+/Users/jesusguzman/Programming/ultima_clase/PatronSingleton/obj/Debug/net8.0/ref/PatronSingleton.dll

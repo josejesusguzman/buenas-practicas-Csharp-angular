@@ -1,0 +1,14 @@
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/obj/Debug/net8.0/PrincipiosSOLID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/obj/Debug/net8.0/PrincipiosSOLID.AssemblyInfoInputs.cache
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/obj/Debug/net8.0/PrincipiosSOLID.AssemblyInfo.cs
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/obj/Debug/net8.0/PrincipiosSOLID.csproj.CoreCompileInputs.cache
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/bin/Debug/net8.0/PrincipiosSOLID
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/bin/Debug/net8.0/PrincipiosSOLID.deps.json
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/bin/Debug/net8.0/PrincipiosSOLID.runtimeconfig.json
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/bin/Debug/net8.0/PrincipiosSOLID.dll
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/bin/Debug/net8.0/PrincipiosSOLID.pdb
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/obj/Debug/net8.0/PrincipiosSOLID.dll
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/obj/Debug/net8.0/refint/PrincipiosSOLID.dll
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/obj/Debug/net8.0/PrincipiosSOLID.pdb
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/obj/Debug/net8.0/PrincipiosSOLID.genruntimeconfig.cache
+/Users/jesusguzman/Programming/ultima_clase/PrincipiosSOLID/obj/Debug/net8.0/ref/PrincipiosSOLID.dll
